@@ -1,31 +1,57 @@
 ![masterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Alfiya Ahmed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">Welcome to my GitHub profile! </h2>
+  <h3 align="center">I am a dedicated and driven Computer Sciences student with a strong passion for technology and its transformative potential.
+</h3>
+**[Background]**
+<br>
+🎓 **Education:**
+<br>
+Currently pursuing a Bachelor's degree in Computer Sciences at HVPM COET.
+<br>
+<br>
+💻 **Technical Skills:**
+<br>
+Proficient in programming languages: Python, C, C++.
+<br>
+Experienced in web development (HTML, CSS, React) and database management (SQL, MongoDB).
+<br>
+Knowledgeable in data structures, algorithms, and software design principles.
+<br>
+Familiar with machine learning concepts and their practical implementation.
+<br>
+<br>
+**[Extracurricular Activities]**
+<br>
+🌱 **Tech Enthusiast:**
+<br>
+Active participant in hackathons and coding competitions, continuously honing my problem-solving skills and staying up-to-date with emerging technologies.
+Attend tech conferences and workshops to network with industry professionals and learn from experts in the field.
+<br>
+<br>
+🤝 **Volunteering:**
+<br>
+Volunteered as a coding mentor for local schools, inspiring the next generation of young minds to pursue careers in computer sciences and technology.
+<br>
+<br>
+**[Career Goals]**
+<br>
+🎯 **Future Aspirations:**
+<br>
+Aspire to work in a dynamic and innovative tech company, contributing to projects that push the boundaries of what technology can achieve.
+Passionate about using AI and technology to solve real-world problems and improve people's lives.
+Open to internships and opportunities to gain practical experience in software development and data analysis.
+<br>
+<br>
+**[Contact]**
+<br>
+📧 **Email:** alfiyaahmed198@gmail.com
+<br>
+🔗 **LinkedIn:** www.linkedin.com/in/alfiya-ahmed-36113a264
+<br>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfiyaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="alfiyaahmed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfiyaahmed" alt="alfiyaahmed" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript,React**
-
-- 📫 How to reach me **alfiyaahmed198@gmail.com**
-
-- ⚡ Fun fact **I think I am a Bibliophile**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+If you share my passion for technology and its limitless possibilities, let's connect and explore opportunities to create a better, tech-driven future together! Feel free to reach out to me via email or connect with me on LinkedIn. Let's learn, grow, and innovate together! 🚀
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AlfiyaAhmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlfiyaAhmed" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfiyaahmed&show_icons=trure&locale=en&layout=compact" alt="alfiyaahmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfiyaahmed&show_icons=true&locale=en" alt="alfiyaahmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfiyaahmed&" alt="alfiyaahmed" /></p>
 
