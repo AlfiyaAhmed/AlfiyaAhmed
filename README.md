@@ -3,14 +3,14 @@
 <h2 align="center">Welcome to my GitHub profile! </h2>
   <h3 align="center">I am a dedicated and driven Computer Sciences student with a strong passion for technology and its transformative potential.
 </h3>
-**[Background]**
+<b>[Background] </b>
 <br>
-🎓 **Education:**
+🎓 <b>Education:</b>
 <br>
 Currently pursuing a Bachelor's degree in Computer Sciences at HVPM COET.
 <br>
 <br>
-💻 **Technical Skills:**
+💻 <b>Technical Skills:</b>
 <br>
 Proficient in programming languages: Python, C, C++.
 <br>
@@ -21,33 +21,37 @@ Knowledgeable in data structures, algorithms, and software design principles.
 Familiar with machine learning concepts and their practical implementation.
 <br>
 <br>
-**[Extracurricular Activities]**
+<b>[Extracurricular Activities]</b>
 <br>
-🌱 **Tech Enthusiast:**
+🌱 <b>Tech Enthusiast:</b>
 <br>
 Active participant in hackathons and coding competitions, continuously honing my problem-solving skills and staying up-to-date with emerging technologies.
 Attend tech conferences and workshops to network with industry professionals and learn from experts in the field.
 <br>
 <br>
-🤝 **Volunteering:**
+🤝 <b>Volunteering:</b>
 <br>
 Volunteered as a coding mentor for local schools, inspiring the next generation of young minds to pursue careers in computer sciences and technology.
 <br>
 <br>
-**[Career Goals]**
+<b>[Career Goals]</b>
 <br>
-🎯 **Future Aspirations:**
+🎯<b>
+  Future Aspirations:
+</b>
 <br>
 Aspire to work in a dynamic and innovative tech company, contributing to projects that push the boundaries of what technology can achieve.
 Passionate about using AI and technology to solve real-world problems and improve people's lives.
 Open to internships and opportunities to gain practical experience in software development and data analysis.
 <br>
 <br>
-**[Contact]**
+<b>[Contact]</b>
 <br>
-📧 **Email:** alfiyaahmed198@gmail.com
+📧<b>
+  Email:
+</b> alfiyaahmed198@gmail.com
 <br>
-🔗 **LinkedIn:** www.linkedin.com/in/alfiya-ahmed-36113a264
+🔗<b>LinkedIn:</b> www.linkedin.com/in/alfiya-ahmed-36113a264
 <br>
 
 If you share my passion for technology and its limitless possibilities, let's connect and explore opportunities to create a better, tech-driven future together! Feel free to reach out to me via email or connect with me on LinkedIn. Let's learn, grow, and innovate together! 🚀
