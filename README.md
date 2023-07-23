@@ -56,6 +56,6 @@ Open to internships and opportunities to gain practical experience in software d
 
 If you share my passion for technology and its limitless possibilities, let's connect and explore opportunities to create a better, tech-driven future together! Feel free to reach out to me via email or connect with me on LinkedIn. Let's learn, grow, and innovate together! 🚀
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/AlfiyaAhmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlfiyaAhmed" /></a></p><br><br>
+<h3 align="left">Know Me :</h3>
+<p><a href="https://www.linkedin.com/in/alfiya-ahmed-36113a264/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="110" width="180" alt="AlfiyaAhmed" /></a></p><br><br>
 
